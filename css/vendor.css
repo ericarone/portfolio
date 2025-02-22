@@ -1377,6 +1377,16 @@ a.pswp__share--facebook:hover:before {
     border-bottom-color : #3E5C9A;
 }
 
+.instagram-logo {
+    path {
+      fill: #fff;
+    }
+    circle: #fff;
+    .logo {
+      fill: #fff;
+    }
+  }
+
 a.pswp__share--twitter:hover {
     background : #55ACEE;
     color      : #FFF;
